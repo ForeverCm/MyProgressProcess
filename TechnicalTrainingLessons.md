@@ -32,7 +32,7 @@
 	2. 少了任何一面都不可称之为硬币了
 
 
-##显示branche结构图
+##显示branche结构图  
 	1. git log --graph --decorate --oneline --simplify-by-decoration --all  
 	2. gitk --simplify-by-decoration --all
 
