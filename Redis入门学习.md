@@ -25,6 +25,8 @@
         * I/O 多路复用（ IO multiplexing）
         * 信号驱动 I/O（ signal driven IO）
         * 异步 I/O（asynchronous IO）
+    8. Redis和Memcache比较
+    	* redis具有持久化机制，可以定期将内存中的数据持久化到硬盘上，而memcache则掉电后就没有了。
 
 	
 	     
