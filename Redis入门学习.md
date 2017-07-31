@@ -1,7 +1,7 @@
 ###Redis入门  
 
 	1. Redis的模型：是基于内存的单进程单线程的KV数据库
-		![fdsafd](https://github.com/ForeverCm/MyProgressProcess/blob/master/IOmultiplexing.png）
+		![](https://github.com/ForeverCm/MyProgressProcess/blob/master/IOmultiplexing.png）
 	2. Redis快的原因:   
 		* 完全基于内存
 		* 数据结构简单，对数据操作也简单
