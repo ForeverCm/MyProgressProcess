@@ -1,8 +1,10 @@
 ###Redis入门  
 
-	1. Redis的模型：是基于内存的单进程单线程的KV数据库
+	1. Redis的模型：是基于内存的单进程单线程的KV数据库  
+<<<<<<<<<<<<<<
 		![](http://i.imgur.com/T4iTQ2F.png)
-	2. Redis快的原因:   
+
+	2. Redis快的原因:   
 		* 完全基于内存
 		* 数据结构简单，对数据操作也简单
 		* 使用多路I/O复用（多路指多个网络连接，复用指单个现成处理多个请求）  
@@ -23,5 +25,6 @@
         * I/O 多路复用（ IO multiplexing）
         * 信号驱动 I/O（ signal driven IO）
         * 异步 I/O（asynchronous IO）
+
 	
 	     
